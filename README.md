@@ -2,8 +2,7 @@
 These projects were completed as part of FreeCodeCamp's Responsive Web Design course. 
 
 PROJECTS 
-* Survey Form
-* Tribute Page
+* Nutrition Label
 
  TECHNOLOGIES USED
  * HTML
